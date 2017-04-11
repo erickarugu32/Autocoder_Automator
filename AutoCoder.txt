@@ -1,0 +1,20 @@
+======================
+AutoCode Software
+    Version 1.0
+======================
+
+Copyright(c) 2017 kelvinGichunge Softwares.
+
+All rights reserved under the following Conditions:
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice and special permission from the manufacturer,
+
+    * Redistributions in binary form must reproduce the above copyright notice and this Conditions,
+    
+    
+
+   
+     
+
